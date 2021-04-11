@@ -1,3 +1,5 @@
+https://easybank-landing-page-tau-lovat.vercel.app
+
 # Frontend Mentor - Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
