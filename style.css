@@ -963,12 +963,16 @@ footer .container .footer-right {
         margin: auto auto !important;
     }
 
+    .hero .hero-container .hero-text h4 {
+        font-size: 16px;
+    }
+
     h1 {
-        font-size: 42px;
+        font-size: 35px;
     }
 
     .hero .hero-container .hero-text .btn {
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     }
 
     header .hero .hero-container .hero-image {
